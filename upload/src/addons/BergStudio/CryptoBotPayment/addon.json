@@ -1,0 +1,16 @@
+{
+    "legacy_addon_id": "",
+    "title": "[Berg] Telegram Crypto Bot Payment",
+    "description": "",
+    "version_id": 1000230,
+    "version_string": "1.0.2 Beta",
+    "dev": "BergStudio",
+    "dev_url": "https://t.me/berg_studio",
+    "faq_url": "https://help.crypt.bot/faq-ru",
+    "support_url": "https://xenforo.info/resources/authors/bergstudio.28071/",
+    "extra_urls": {
+        "@CryptoBot": "https://t.me/CryptoBot?start=r-98cwc"
+    },
+    "require": [],
+    "icon": "fa-money-bill-alt"
+}
