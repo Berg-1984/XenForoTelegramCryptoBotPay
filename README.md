@@ -1,4 +1,4 @@
-XenForo Payment Gateway
+XenForo Payment Gateway Telegram CryptoBot
 
 https://t.me/CryptoBot?start=r-98cwc
 
