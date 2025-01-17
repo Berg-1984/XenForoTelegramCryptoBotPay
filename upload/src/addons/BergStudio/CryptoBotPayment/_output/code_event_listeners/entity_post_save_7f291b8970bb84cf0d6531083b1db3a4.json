@@ -1,9 +1,0 @@
-{
-    "event_id": "entity_post_save",
-    "execute_order": 10,
-    "callback_class": "BergStudio\\CryptoBotPayment\\Listener",
-    "callback_method": "postSavePurchaseRequest",
-    "active": true,
-    "hint": "XF\\Entity\\PurchaseRequest",
-    "description": "Add fee cost"
-}

@@ -1,9 +1,0 @@
-{
-    "template": "log_payment_provider_view",
-    "description": "",
-    "execution_order": 10,
-    "enabled": true,
-    "action": "str_replace",
-    "find": "<span dir=\"auto\">{$entry.log_message}</span>",
-    "replace": "$0\n <xf:if is=\"$entry.provider_id == 'tg_crypto_bot' && $entry.log_type == 'info'\">\n\t<xf:button href=\"{{ link('logs/payment-provider/check', $entry) }}\" \n\t\t\t   icon=\"\" style=\"float: right;\" overlay=\"true\">\n\t\t{{ phrase('check') }}\n    </xf:button>\n  </xf:if>"
-}
