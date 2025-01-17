@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<code_event_listeners>
+  <listener event_id="entity_post_save" execute_order="10" callback_class="BergStudio\CryptoBotPayment\Listener" callback_method="postSavePurchaseRequest" active="1" hint="XF\Entity\PurchaseRequest" description="Add fee cost"/>
+</code_event_listeners>
