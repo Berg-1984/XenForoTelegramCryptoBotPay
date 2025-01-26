@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<phrases>
+  <phrase title="berg_crypto_bot_accepted_currencies" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Accepted crypto currencies]]></phrase>
+  <phrase title="berg_crypto_bot_fee_message_x" version_id="1000210" version_string="1.0.2 Alpha"><![CDATA[* price incl. {fee}%]]></phrase>
+  <phrase title="berg_crypto_bot_fee_title" version_id="1000110" version_string="1.0.1 Alpha"><![CDATA[Payment system fee]]></phrase>
+  <phrase title="berg_crypto_bot_invoice_url_type" version_id="1000020" version_string="1.0.0 Alpha 10"><![CDATA[Method of payment]]></phrase>
+  <phrase title="berg_crypto_bot_invoice_url_type.bot" version_id="1000020" version_string="1.0.0 Alpha 10"><![CDATA[Bot]]></phrase>
+  <phrase title="berg_crypto_bot_invoice_url_type.mini_app" version_id="1000020" version_string="1.0.0 Alpha 10"><![CDATA[Mini app]]></phrase>
+  <phrase title="berg_crypto_bot_invoice_url_type.web_app" version_id="1000020" version_string="1.0.0 Alpha 10"><![CDATA[Web]]></phrase>
+  <phrase title="berg_crypto_bot_no_accepted_currencies" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Select at least one currency for payment]]></phrase>
+  <phrase title="berg_crypto_bot_no_token" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Enter api token]]></phrase>
+  <phrase title="berg_crypto_bot_title" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Telegram Crypto Bot]]></phrase>
+  <phrase title="berg_crypto_bot_token" version_id="1000000" version_string="1.0.0"><![CDATA[API token for Crypto Bot]]></phrase>
+  <phrase title="berg_crypto_bot_token_explain_x" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[<a href="https://t.me/CryptoBot?start=r-98cwc" target="_blank">https://t.me/CryptoBot</a> or <a href="https://t.me/CryptoTestnetBot?start=r-j82dj" target="_blank">https://t.me/CryptoTestnetBot</a> (for testnet)
+<br>
+Webhook url - <a href=" {webhook_url}" target="_blank">{webhook_url}</a>
+]]></phrase>
+</phrases>
