@@ -1,6 +1,6 @@
-##XenForo Payment Gateway Telegram CryptoBot##
+**XenForo Payment Gateway Telegram CryptoBot**
 
-[https://t.me/CryptoBot] (https://t.me/send?start=r-98cwc)
+https://t.me/send?start=r-98cwc
 
 In the bot section - Crypto Pay!
 
