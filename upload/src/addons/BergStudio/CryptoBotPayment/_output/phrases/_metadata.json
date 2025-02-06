@@ -1,0 +1,74 @@
+{
+    "berg_crypto_bot_accepted_currencies.txt": {
+        "global_cache": false,
+        "version_id": 1000010,
+        "version_string": "1.0.0 Alpha",
+        "hash": "ace7a8dd442959d0f4777094de622dd1"
+    },
+    "berg_crypto_bot_fee_message_x.txt": {
+        "global_cache": false,
+        "version_id": 1000210,
+        "version_string": "1.0.2 Alpha",
+        "hash": "d90ce3e204e4420507ed321a94f552f1"
+    },
+    "berg_crypto_bot_fee_title.txt": {
+        "global_cache": false,
+        "version_id": 1000110,
+        "version_string": "1.0.1 Alpha",
+        "hash": "5230273b7ff4480d46c5a45cfe22a877"
+    },
+    "berg_crypto_bot_invoice_url_type.bot.txt": {
+        "global_cache": false,
+        "version_id": 1000020,
+        "version_string": "1.0.0 Alpha 10",
+        "hash": "1448e86d90e0feb307c2894c24e87767"
+    },
+    "berg_crypto_bot_invoice_url_type.mini_app.txt": {
+        "global_cache": false,
+        "version_id": 1000020,
+        "version_string": "1.0.0 Alpha 10",
+        "hash": "dd3b3893e698d82ed76242c7646a875c"
+    },
+    "berg_crypto_bot_invoice_url_type.txt": {
+        "global_cache": false,
+        "version_id": 1000020,
+        "version_string": "1.0.0 Alpha 10",
+        "hash": "848b02cb36586f78c20204f2644c693e"
+    },
+    "berg_crypto_bot_invoice_url_type.web_app.txt": {
+        "global_cache": false,
+        "version_id": 1000020,
+        "version_string": "1.0.0 Alpha 10",
+        "hash": "c6e190b284633c48e39e55049da3cce8"
+    },
+    "berg_crypto_bot_no_accepted_currencies.txt": {
+        "global_cache": false,
+        "version_id": 1000010,
+        "version_string": "1.0.0 Alpha",
+        "hash": "42fa00244e6ed11e32314e11c1774649"
+    },
+    "berg_crypto_bot_no_token.txt": {
+        "global_cache": false,
+        "version_id": 1000010,
+        "version_string": "1.0.0 Alpha",
+        "hash": "7f975810765ec563dc0a42c99b831824"
+    },
+    "berg_crypto_bot_title.txt": {
+        "global_cache": false,
+        "version_id": 1000010,
+        "version_string": "1.0.0 Alpha",
+        "hash": "9b2a02e42afb93b84bd616eef99ece8c"
+    },
+    "berg_crypto_bot_token.txt": {
+        "global_cache": false,
+        "version_id": 1000000,
+        "version_string": "1.0.0",
+        "hash": "54eb30e6ee3f2d578be018af309380a7"
+    },
+    "berg_crypto_bot_token_explain_x.txt": {
+        "global_cache": false,
+        "version_id": 1000010,
+        "version_string": "1.0.0 Alpha",
+        "hash": "132ef4448461a73bcdc3a18eb39c5449"
+    }
+}
