@@ -1,9 +1,0 @@
-{
-    "template": "log_payment_provider_list",
-    "description": "",
-    "execution_order": 10,
-    "enabled": false,
-    "action": "str_replace",
-    "find": "</xf:datarow>",
-    "replace": "<xf:cell>\n<xf:if is=\"$entry.provider_id == 'tg_crypto_bot' && $entry.log_type == 'info'\">\n\t<xf:button href=\"{{ link('logs/payment-provider/check', $entry) }}\" \n\t\t\t   icon=\"\" style=\"float: right;\" overlay=\"true\">\n\t\t{{ phrase('check') }}\n    </xf:button>\n  </xf:if>\n\t</xf:cell>\n$0"
-}

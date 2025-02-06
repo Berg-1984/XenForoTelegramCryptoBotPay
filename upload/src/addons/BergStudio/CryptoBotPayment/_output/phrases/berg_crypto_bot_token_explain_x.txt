@@ -1,3 +1,0 @@
-<a href="https://t.me/CryptoBot?start=r-98cwc" target="_blank">https://t.me/CryptoBot</a> or <a href="https://t.me/CryptoTestnetBot?start=r-j82dj" target="_blank">https://t.me/CryptoTestnetBot</a> (for testnet)
-<br>
-Webhook url - <a href=" {webhook_url}" target="_blank">{webhook_url}</a>
